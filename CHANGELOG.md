@@ -5,6 +5,7 @@ All notable changes are listed here. The format follows [Keep a Changelog](https
 ## Unreleased
 
 - Demo GIF in the README.
+- README translations: Simplified Chinese, Japanese, Korean, Spanish, Brazilian Portuguese, German and French.
 
 ## 0.1.0 - 2026-11-26
 

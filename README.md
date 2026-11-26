@@ -3,7 +3,7 @@
 [![CI](https://github.com/retretor/opencode-crew-mail/actions/workflows/ci.yml/badge.svg)](https://github.com/retretor/opencode-crew-mail/actions/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
-**English** · [Русский](docs/i18n/README.ru.md)
+**English** · [简体中文](docs/i18n/README.zh-CN.md) · [日本語](docs/i18n/README.ja.md) · [한국어](docs/i18n/README.ko.md) · [Español](docs/i18n/README.es.md) · [Português (Brasil)](docs/i18n/README.pt-BR.md) · [Deutsch](docs/i18n/README.de.md) · [Français](docs/i18n/README.fr.md) · [Русский](docs/i18n/README.ru.md)
 
 Direct messages between the subagents of one [opencode](https://opencode.ai) session, so that the lead agent does not have to carry every piece of information from one subagent to the next.
 

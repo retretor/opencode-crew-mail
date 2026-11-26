@@ -1,6 +1,6 @@
 # opencode-crew-mail
 
-[English](../../README.md) · **Русский**
+[English](../../README.md) · [简体中文](README.zh-CN.md) · [日本語](README.ja.md) · [한국어](README.ko.md) · [Español](README.es.md) · [Português (Brasil)](README.pt-BR.md) · [Deutsch](README.de.md) · [Français](README.fr.md) · **Русский**
 
 > Перевод. Основной документ — [README на английском](../../README.md); при расхождении верен он.
 
