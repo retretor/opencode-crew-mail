@@ -1,0 +1,10 @@
+{
+  "maxChars": 4000,
+  "maxPerSession": 40,
+  "maxPerPair": 6,
+  "pairWindowMinutes": 10,
+  "wakeLead": false,
+  "copyToLead": false,
+  "agents": null,
+  "logText": true
+}
