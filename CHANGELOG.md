@@ -4,6 +4,8 @@ All notable changes are listed here. The format follows [Keep a Changelog](https
 
 ## Unreleased
 
+- Demo GIF in the README.
+
 ## 0.1.0 - 2026-11-26
 
 - `crew_list` and `crew_send`: direct messages between the lead and the subagents of one session tree.

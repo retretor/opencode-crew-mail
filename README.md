@@ -7,6 +7,10 @@
 
 Direct messages between the subagents of one [opencode](https://opencode.ai) session, so that the lead agent does not have to carry every piece of information from one subagent to the next.
 
+![Two background subagents: the coder sends a message with crew_send, the researcher reads it at its next step, and the lead gets a note too](docs/media/demo.gif)
+
+*A scripted run against the real plugin in an isolated `opencode serve`.*
+
 ```
             lead (primary agent)
            /        |         \
